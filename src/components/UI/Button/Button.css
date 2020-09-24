@@ -1,0 +1,30 @@
+.Button {
+  background-color:#ccc;
+  border: none;
+  color: white;
+  outline: none;
+  cursor: pointer;
+  font: inherit;
+  padding: 10px;
+  margin: 10px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.Button:hover{
+  background-color: #4dd;
+  color:black;
+}
+
+/* .Button:first-of-type {
+  margin-left: 0;
+  padding-left: 10px;
+} */
+
+.Success {
+  color: #5C9210;
+}
+
+.Danger {
+  color: #944317;
+}
